@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/hook-news/static/js/runtime~main.d09e8367.js"
   },
   {
-    "revision": "0e841bdbc86426c0116d",
-    "url": "/hook-news/static/js/main.0e841bdb.chunk.js"
+    "revision": "ebca6dbfccb6781f8afc",
+    "url": "/hook-news/static/js/main.ebca6dbf.chunk.js"
   },
   {
     "revision": "599c9d90cf0741878ed3",
     "url": "/hook-news/static/js/1.599c9d90.chunk.js"
   },
   {
-    "revision": "96b9bffa13dd1110162e2bfdfa71e71c",
+    "revision": "8cdb28719c6cd2251f23b30166427a81",
     "url": "/hook-news/index.html"
   }
 ];
