@@ -1,0 +1,11 @@
+{
+  "main.js": "/hook-news/static/js/main.0e841bdb.chunk.js",
+  "main.js.map": "/hook-news/static/js/main.0e841bdb.chunk.js.map",
+  "static/js/1.599c9d90.chunk.js": "/hook-news/static/js/1.599c9d90.chunk.js",
+  "static/js/1.599c9d90.chunk.js.map": "/hook-news/static/js/1.599c9d90.chunk.js.map",
+  "runtime~main.js": "/hook-news/static/js/runtime~main.d09e8367.js",
+  "runtime~main.js.map": "/hook-news/static/js/runtime~main.d09e8367.js.map",
+  "index.html": "/hook-news/index.html",
+  "precache-manifest.d31a5595da33711e46005ad8f5dc998e.js": "/hook-news/precache-manifest.d31a5595da33711e46005ad8f5dc998e.js",
+  "service-worker.js": "/hook-news/service-worker.js"
+}
